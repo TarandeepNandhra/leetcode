@@ -1,0 +1,7 @@
+# Leetcode
+
+Learning journey
+------------
+
+- Two Sum problem 
+    - Brute force vs creating a hash table
